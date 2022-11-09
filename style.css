@@ -1,0 +1,32 @@
+body {
+    background-color: rgb(53, 187, 169);
+    font-family: 'Arvo', serif;
+}
+.header {
+    background-color: rgb(168, 210, 110);
+    font-family: 'Arvo', serif;
+    color:rgb(46, 104, 114)
+}
+.header p {
+color: rgb(107, 162, 115);
+letter-spacing: 2px;
+font-weight: bold;
+}
+button {
+    font-family: 'Kalam', cursive;
+    font-size: 30px !important;
+    margin: 13px;
+    width: 150px;
+    letter-spacing: 3px;
+}
+#My_Footer {
+    background-color: rgb(254, 255, 205);
+    bottom: 0;
+    position: fixed;
+    width: 100%;
+    line-height: 3;
+    text-align: center;
+    letter-spacing: 2;
+    color: rgb(192, 142, 73);
+    text-shadow: 5px 8px 10px rgb(125, 75, 19);
+}
